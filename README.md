@@ -104,3 +104,9 @@ Parse Tree:
 
 Bracket: (S (NP (DT the) (JJ big) (NN cat)) (VP (VBZ runs) (RB quickly)))
 ```
+
+
+## Contributors
+
+- @gizemylmz-ai
+- @atahanuz
