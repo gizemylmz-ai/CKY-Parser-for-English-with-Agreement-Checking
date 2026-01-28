@@ -1,0 +1,36 @@
+{
+  "dt_nn_agreement": {
+    "description": "Determiner must agree with noun in number",
+    "constituents": [
+      "DT",
+      "NN"
+    ],
+    "check_type": "number_match",
+    "allow_any": true
+  },
+  "dt_nns_agreement": {
+    "description": "Determiner must agree with plural noun",
+    "constituents": [
+      "DT",
+      "NNS"
+    ],
+    "check_type": "number_match",
+    "allow_any": true
+  },
+  "subject_verb_agreement_vbz": {
+    "description": "3rd person singular subject requires VBZ",
+    "constituents": [
+      "NP",
+      "VBZ"
+    ],
+    "check_type": "subject_verb_3sg"
+  },
+  "subject_verb_agreement_vbp": {
+    "description": "Non-3rd singular subject requires VBP",
+    "constituents": [
+      "NP",
+      "VBP"
+    ],
+    "check_type": "subject_verb_non3sg"
+  }
+}

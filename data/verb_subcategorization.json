@@ -1,0 +1,10289 @@
+{
+  "_description": "Verb subcategorization frames extracted from VerbNet",
+  "_frame_types": {
+    "copular": "Linking verb (be, seem)",
+    "ditransitive": "Verb takes two objects (give X Y)",
+    "intransitive": "Verb takes no direct object (go, sleep)",
+    "np_pp": "Verb takes NP + PP (put X on Y)",
+    "pp_optional": "Verb can take optional PP",
+    "pp_required": "Verb requires PP complement (go to)",
+    "transitive": "Verb takes NP object (buy, read)"
+  },
+  "_source": "NLTK VerbNet 3.0",
+  "verbs": {
+    "'": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "abandon": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "abate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "abide": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "abolish": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "abound": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "abridge": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "absorb": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "accede": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "accelerate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "accept": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "accommodate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "accompany": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "accord": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "account": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "accrue": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "accumulate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "accuse": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "ace": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "achieve": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "acknowledge": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "acquire": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "act": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "adapt": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "add": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "address": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "adjust": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "administer": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": false
+    },
+    "admit": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "adopt": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "advance": {
+      "allows_np": false,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": true
+    },
+    "advanced": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "advertise": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "advertising": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "advise": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "advocate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "affect": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "afflict": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "afford": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "aggravate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "agree": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "ai": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "aid": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "ail": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "aim": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "air": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "alarmed": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "alert": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "alienate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "allege": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "alleviate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "allocate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "allow": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "alter": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "amass": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "amend": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "amount": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "analyze": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "anger": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "announce": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "annoyed": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "annualize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "answer": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "anticipate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "apologize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "appeal": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": false
+    },
+    "appear": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "appease": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "applaud": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "apply": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "appoint": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "approach": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "appropriate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "approve": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "arbitrage": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "argue": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "arise": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "armed": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "arrange": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "arrest": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "arrive": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "ascribe": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "ask": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "aspire": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "assassinate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "assemble": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "assert": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "assess": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "assign": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "assist": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "associate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "assume": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "assure": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "attach": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "attack": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "attempt": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "attend": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "attract": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "attribute": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "auction": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "audit": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "augment": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "authorize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "automate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "avenge": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "average": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "avert": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "avoid": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "await": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "award": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "back": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "balk": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "ban": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "banking": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "bankroll": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "bar": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "bark": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "base": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "batter": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "battle": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "be": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "bear": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "beat": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "become": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "befall": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "befuddled": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "beg": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "beget": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "begin": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "behave": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "beleaguered": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "believe": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "belong": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "bend": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "benefit": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "bet": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "bid": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "bill": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "blame": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "bleed": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "bless": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "blink": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "blip": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "block": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "bludgeon": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "blur": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "board": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "boast": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "bolster": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "bombard": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "book": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "boom": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "boost": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "borrow": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "bother": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "bounce": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "bow": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "breach": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "break": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "breathe": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "bribe": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "brief": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "brighten": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "bring": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "broadcast": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "broadcasting": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "broaden": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "broker": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "brush": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "buck": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "bud": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": false
+    },
+    "buffet": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "build": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "bundle": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "buoy": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "burn": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "buy": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "calculate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "call": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "cap": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "capitalize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "capture": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "care": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "carry": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "cascade": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "cast": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "catch": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "cater": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "cause": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "caution": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "celebrate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "center": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "centralized": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "chair": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "challenge": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "champion": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "change": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "channel": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "characterize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "charge": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "chase": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "chastise": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "chat": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "cheat": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "check": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "chill": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "choose": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "chop": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "circulate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "cite": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "claim": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "clamp": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "clarify": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "clash": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "class": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "classify": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "clean": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "clear": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "click": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "climb": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "clip": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "clobber": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "close": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "cluttered": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "co": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "coat": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "codify": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "collaborate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "collapse": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "collect": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "color": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "combat": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "combine": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": false
+    },
+    "come": {
+      "allows_np": false,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": true
+    },
+    "command": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "comment": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "commit": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "compare": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "compel": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "compensate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "compete": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "compile": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "complain": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "complete": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "complicate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "complicated": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "compose": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "compressed": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "compromise": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "computerize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "concede": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "concentrate": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "concern": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "conclude": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "condemn": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "conduct": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "confine": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "confirm": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "conflict": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "conform": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "confront": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "confuse": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "connect": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "consent": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "consider": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "consist": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "constitute": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "construe": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "contact": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "contain": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "contend": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "contest": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "continue": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "contract": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "contradict": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "contrast": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": false
+    },
+    "contribute": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "control": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "convert": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "convey": {
+      "allows_np": true,
+      "frames": [
+        "ditransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "convict": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "convince": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "cool": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "cooperate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "coordinate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "cope": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": false
+    },
+    "copy": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "correct": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "cost": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "count": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "counteract": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "couple": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "cover": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "crack": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "craft": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "crank": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "crash": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "create": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "cripple": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "criticize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "cross": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "crowded": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "cruise": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "cry": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "cultivate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "curb": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "cure": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "curl": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "curtail": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "cushion": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "customize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "cut": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "damage": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "dash": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "date": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "deal": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "debate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "decide": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "declare": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "decline": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": false
+    },
+    "decorate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "decrease": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "decry": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "deduct": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "deem": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "default": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "defeat": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "defend": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "define": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "defuse": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "defy": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "delay": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "delete": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "deliberate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "delist": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "deliver": {
+      "allows_np": true,
+      "frames": [
+        "ditransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "demand": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "demobilize": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "demonstrate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "denounce": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "deny": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "depend": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "deplete": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "depressed": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "deprive": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "derive": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "descend": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "describe": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "deserve": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "design": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "designate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "desire": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "despise": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "destroy": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "detailed": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "deter": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "deteriorate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "determine": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "devastate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "develop": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "devise": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "devote": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "devour": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "diagnose": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "dial": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "die": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "differ": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "dig": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "dilute": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "diminish": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "direct": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "disagree": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "disappear": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "disappoint": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "disapprove": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "discard": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "discharge": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "discipline": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "disclose": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "disconnect": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "discontinue": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "discourage": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "discover": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "discredit": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "discuss": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "disgorge": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "dislike": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "dismiss": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "display": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "dispose": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "dispute": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "disseminate": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "dissolve": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "distinguish": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "distribute": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "disturb": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "diversified": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "diversify": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "divest": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "divide": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "do": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "document": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "dole": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "dominate": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": false
+    },
+    "double": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "doubt": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "downgrade": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "draft": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "draw": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "dream": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "dress": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "drift": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "drink": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "drive": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "drool": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "drop": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "dub": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "duck": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "dump": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "dwindle": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "earn": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "ease": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "eat": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "echo": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "eclipse": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "edge": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "educate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "elaborate": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "elect": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "eliminate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "emasculate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "embroil": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "emerge": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "emigrate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "emphasize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "employ": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "empower": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "enable": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "enact": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "encircle": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "enclose": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "encounter": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "encourage": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "encroach": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "end": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "endorse": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "enforce": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "engage": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "engineer": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "engineering": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "enhance": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "enjoy": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "enrage": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "ensnarl": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "ensure": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "enter": {
+      "allows_np": false,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": true
+    },
+    "entertain": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "entice": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "entitle": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "entrench": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "entrust": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "equal": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "equip": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "erect": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "erode": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "escalate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "escape": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "espouse": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "establish": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "estimate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "evaluate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "evaporate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "even": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "evoke": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "evolve": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "exacerbate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "examine": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "exceed": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "exchange": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "excise": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "excited": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "exclude": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "execute": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "exercise": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "exert": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "exhaust": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "exhausted": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "exhibit": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "exist": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "expand": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "expect": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "expedite": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "expel": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "experience": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "expire": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "explain": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "explode": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "exploit": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "explore": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "export": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "expose": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "express": {
+      "allows_np": true,
+      "frames": [
+        "ditransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "expunge": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "extend": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "exude": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "eye": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "fabricate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "face": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "facilitate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "factor": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "fade": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "fail": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "faint": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "fall": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "falsify": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "falter": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "fare": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "fashioned": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "fatten": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "fault": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "favor": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "fawn": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": false
+    },
+    "fear": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "feature": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "feed": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "feel": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "fend": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "fetch": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "field": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "fight": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "figure": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "file": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "fill": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "film": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "fin": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "finalize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "finance": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "find": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "finish": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "fire": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "firm": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "fix": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "fizzle": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "flee": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "flirt": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "float": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "flood": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "flourish": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "flow": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "flush": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "fly": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "focus": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "fold": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "follow": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "force": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "forecast": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "forget": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "forgive": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "form": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "found": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "founder": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "free": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "fret": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "frightened": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "frozen": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "frustrating": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "fuel": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "fume": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "function": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "fund": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "fundraising": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "gain": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "gather": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "gauge": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "generate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "get": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "give": {
+      "allows_np": true,
+      "frames": [
+        "ditransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "glamorize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "gloss": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "go": {
+      "allows_np": false,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": true
+    },
+    "gone": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "gore": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "graduate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "grant": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "grapple": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "grow": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "guarantee": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "guard": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "guide": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "gyrate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "hail": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "halt": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "halve": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "hamper": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "hamstrung": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "hand": {
+      "allows_np": true,
+      "frames": [
+        "ditransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "handle": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "hang": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "happen": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "harass": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "harm": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "harp": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "harvest": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "haul": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "have": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "head": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "headline": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "hear": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "heat": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "heighten": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "help": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "herald": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "hide": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "highlight": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "hire": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "hit": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "hold": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "honor": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "hop": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "hope": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "host": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "house": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "hug": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "hunker": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "hunt": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "hurt": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "identify": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "ignore": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "illustrate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "imagine": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "impair": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "impart": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "impede": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "impend": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "implant": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "implement": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "imply": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "import": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "impose": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "impress": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "improve": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "inch": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "include": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "incorporate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "increase": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "incur": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "indicate": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "induce": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "indulge": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "industrialized": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "inflate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "influence": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "inform": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "infringe": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "inherit": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "inhibit": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "initial": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "initiate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "initiative": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "inject": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "injure": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "inquire": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "insert": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "insinuate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "insist": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "inspire": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "instal": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "install": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "institute": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "instruct": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "insure": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "integrate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "intend": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "intended": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "interested": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "interject": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "interrogate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "interview": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "intimidate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "introduce": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "invade": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "invent": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "invest": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "investigate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "invite": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "involve": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "issue": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "jeopardize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "jet": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "join": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "jostle": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "judge": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "juggle": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "jump": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "junk": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "justify": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "keep": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "kick": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "kill": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "knit": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "knock": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "know": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "label": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "labeling": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "lack": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "lag": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "land": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "lapse": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "last": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "laud": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "laugh": {
+      "allows_np": false,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": true
+    },
+    "launch": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "lay": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "lead": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "leap": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "learn": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "lease": {
+      "allows_np": true,
+      "frames": [
+        "ditransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "leave": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "legislate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "lend": {
+      "allows_np": true,
+      "frames": [
+        "ditransitive",
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "lengthen": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "lessen": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "let": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "level": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "leverage": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "license": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "lie": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "lift": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "like": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "limit": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "limited": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "limp": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "line": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "link": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "liquidate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "list": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "live": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "load": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "locate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "lock": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "log": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": false
+    },
+    "look": {
+      "allows_np": false,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": true
+    },
+    "loom": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "lose": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "love": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "lower": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "lure": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "magnify": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "mail": {
+      "allows_np": true,
+      "frames": [
+        "ditransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "mailing": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "maintain": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "make": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "manage": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "mandate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "manipulate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "manufacture": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "map": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "march": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "mark": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "market": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "marketing": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "mat": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "match": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "materialize": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "matter": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "mature": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "maximize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "mean": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "measure": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "meet": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "memorize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "mend": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "mention": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "merge": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": false
+    },
+    "merit": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "midsize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "migrate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "milk": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "mimic": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "mind": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "mint": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "mire": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "mirror": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "miss": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "mitigate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "mixed": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "mobilize": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "moderate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "modify": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "mollify": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "monopolize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "mortgage": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "mount": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "move": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "muffled": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "mull": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "multiply": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "murder": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "muscle": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "muted": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "name": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "narrow": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "need": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "negotiate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "neighbor": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "nominate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "nonrecurre": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "notch": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "note": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "notice": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "notify": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "nullify": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "number": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "nurture": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "obligate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "observe": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "obsess": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "obtain": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "occupy": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "occur": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "offend": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "offer": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "offset": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "omit": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "open": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "operate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "oppose": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "orchestrate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "order": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "organize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "orient": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "oust": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "outbid": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "outdistance": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "outlaw": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "outnumber": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "outpace": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "outrank": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "outstrip": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "overcome": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "overdone": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "overlap": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "overpay": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "overpriced": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "override": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "oversee": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "overstate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "overused": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "overvalue": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "owe": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "own": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "packaging": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "paint": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "pair": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "panic": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "parallel": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "parched": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "participate": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "pass": {
+      "allows_np": true,
+      "frames": [
+        "ditransitive",
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "patent": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "pay": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "peal": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "peg": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "pende": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "penetrate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "perceive": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "perform": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "permit": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "perpetuate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "persuade": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "phase": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "photocopy": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "pick": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "pin": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "pine": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "pit": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "pitch": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "place": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "plague": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "plan": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "planning": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "plant": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "play": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "plead": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "please": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "pledge": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "plug": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "plummet": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": false
+    },
+    "plunge": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "point": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "polarize": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "polish": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "poll": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "populated": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "port": {
+      "allows_np": true,
+      "frames": [
+        "ditransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "portray": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "pose": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "position": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "possess": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "post": {
+      "allows_np": true,
+      "frames": [
+        "ditransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "postpone": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "pour": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "practice": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "praise": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "preapproved": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "precede": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "preclude": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "predicate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "predict": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "predispose": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "prefer": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "prepare": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "prescribe": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "present": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "preserve": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "press": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "pressure": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "presume": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "prevail": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": false
+    },
+    "prevent": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "price": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "print": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "produce": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "profess": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "profit": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "prohibit": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "project": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "prolong": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "promise": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "promote": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "prompt": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "propagandize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "propel": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "propose": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "proscribe": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "prosecute": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "protect": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "prove": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "provide": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "provoke": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "publicize": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "publish": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "pull": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "pump": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "punish": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "purchase": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "purr": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "pursue": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "push": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "put": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "puzzle": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "qualified": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "qualify": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "quash": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "question": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "queue": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "quip": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "quit": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "quote": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "race": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "racing": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "raise": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rally": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "range": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rank": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rarefied": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rat": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "ratchet": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "ratify": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rating": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "ration": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reach": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "react": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "read": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reaffirm": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "realestate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "realize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reallocate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reap": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reason": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reassert": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rebound": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rebuff": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rebuild": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rebuke": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "recall": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "recede": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "receive": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "recite": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reclaim": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "recognize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "recommend": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "record": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "recoup": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "recover": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "recruit": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rectify": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "recycle": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "red": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "redeem": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "redeploy": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "redistribute": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reduce": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reel": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "refer": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "refile": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "refit": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reflect": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "refresh": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "refund": {
+      "allows_np": true,
+      "frames": [
+        "ditransitive",
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "refuse": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "regard": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "regenerate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "register": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "regulate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reimburse": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reinstate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reject": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rekindle": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "relate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "relaunche": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "release": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "relegate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "relieve": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rely": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "remain": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": false
+    },
+    "remark": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "remember": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "remind": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "remove": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "renew": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "renovate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reopen": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reorganize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "repair": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "repay": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "repeal": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "replace": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "replicate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reply": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "report": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "represent": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reprice": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reprint": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reprove": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "request": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "require": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reschedule": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "research": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "resemble": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "resent": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reserve": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reshape": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "resign": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "resist": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "resolve": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "resonate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "respect": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "respond": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "restore": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "restrict": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "restructure": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "resubmit": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "result": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "resume": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "retain": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "retaliate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "retard": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "retire": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "retrace": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "return": {
+      "allows_np": false,
+      "frames": [
+        "ditransitive",
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": true
+    },
+    "reverse": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "review": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "revise": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "revive": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "revolve": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "reward": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rewarding": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rewrite": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rid": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rig": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "ring": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "ripen": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rise": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "risk": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rob": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "roll": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "romanticize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "root": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "route": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rule": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rumor": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "run": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rung": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rush": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "rusted": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sabotage": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sack": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sacrifice": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": false
+    },
+    "safeguard": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sag": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sanction": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "satisfy": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "save": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "say": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "scan": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "scar": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "scared": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "scatter": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "schedule": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "scoff": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "scoop": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "scramble": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "scrap": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "scrape": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "scream": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "screen": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "screw": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "scrounge": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "scrutinize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "scuttle": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "search": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "secede": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "secure": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "seduce": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "see": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "seek": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "seem": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "segment": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "seize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "select": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sell": {
+      "allows_np": true,
+      "frames": [
+        "ditransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "send": {
+      "allows_np": true,
+      "frames": [
+        "ditransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sense": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sentencing": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "serve": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "service": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "set": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "settle": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sew": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "shake": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "shape": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "share": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "shed": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "ship": {
+      "allows_np": true,
+      "frames": [
+        "ditransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "shoot": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "shop": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "shore": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "show": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "shrink": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "shrug": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "shut": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sidestep": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sign": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "signal": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "signify": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "simulate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "single": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sink": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sit": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sketch": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "skid": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "skip": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "skyrocket": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": false
+    },
+    "slash": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "slat": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sleep": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "slide": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "slip": {
+      "allows_np": true,
+      "frames": [
+        "ditransitive",
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "slow": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "smother": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "snake": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "snap": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sneak": {
+      "allows_np": true,
+      "frames": [
+        "ditransitive",
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "soar": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": false
+    },
+    "soften": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "solicit": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "solve": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sort": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sound": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "spackle": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "spar": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "spark": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "speak": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "specialize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "specialized": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "specify": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "speculate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "speed": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "spend": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "spin": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "split": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "spook": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "spot": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "spread": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "spur": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "spurn": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sputter": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "squeeze": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "stab": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "stack": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "stacked": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "staid": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "stake": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "stand": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "stare": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "start": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "state": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "stay": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "steal": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "stem": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "step": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "stick": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "stifle": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "stimulate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sting": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "stir": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "stoke": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "stop": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "store": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "strapped": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "strengthen": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "stress": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "stretch": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "strike": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "string": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "strip": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "strive": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "structure": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "struggle": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "study": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "subdue": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "subject": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "submit": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": false
+    },
+    "subordinate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "subpoena": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "subscribe": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "subsidize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "succeed": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sue": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "suffer": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "suggest": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "suit": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "summon": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "superimpose": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "supply": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "support": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "surface": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "surge": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "surprised": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "surrender": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": false
+    },
+    "surround": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "survey": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "survive": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "suspect": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "suspend": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sustain": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "swallow": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "swap": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "sweep": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "sweeten": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "swell": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": false
+    },
+    "swim": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "swing": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "switch": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "synchronize": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "tackle": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "tailor": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "take": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "talk": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "tank": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "tap": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "taper": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "target": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "teach": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "tear": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "teeter": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "telegraph": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "telephone": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "tell": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "tempt": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "tend": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "tender": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "term": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "terminate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "test": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "testify": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "think": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "threaten": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "throw": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "thumb": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "thwart": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "tie": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "tighten": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "tilt": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "time": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "tinker": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "tip": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "tolerate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "top": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "total": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "tote": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "touch": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "tout": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "trace": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "track": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "trade": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "trail": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "train": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "transact": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "transcribe": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "transfer": {
+      "allows_np": true,
+      "frames": [
+        "ditransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "transform": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "transport": {
+      "allows_np": true,
+      "frames": [
+        "ditransitive",
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "trash": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "travel": {
+      "allows_np": false,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": true
+    },
+    "treat": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "trespass": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "trigger": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "trim": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "triple": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "troubled": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "trust": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "try": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "tuck": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "tumble": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "tune": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "turn": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "twin": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "twist": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "undercut": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "undergo": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "underlie": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "underline": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "underperform": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "underpin": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "underscore": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "understand": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "undertaking": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "undo": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "unleash": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "unload": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "unsettled": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "unveil": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "unwind": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "uphold": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "upset": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "uptick": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "urge": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "use": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "usher": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "usurp": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "utter": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "value": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "varied": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "vary": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "ventilate": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "vest": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "veto": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "view": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "violate": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "visit": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "voice": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "vote": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "vow": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "wait": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": false
+    },
+    "waive": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "walk": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "wallow": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": true
+    },
+    "want": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "ward": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "warn": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "warrant": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "waste": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "watch": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "weaken": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "wear": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "weather": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "wed": {
+      "allows_np": false,
+      "frames": [
+        "intransitive"
+      ],
+      "requires_pp": false
+    },
+    "weigh": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "welcome": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "whipsaw": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "whistle": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "wield": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "win": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "wind": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "wish": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "withdraw": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "withhold": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "withstand": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "woo": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "work": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "worry": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "worsen": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "wound": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "wreck": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "wrestling": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "write": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "yield": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "zip": {
+      "allows_np": true,
+      "frames": [
+        "transitive"
+      ],
+      "requires_pp": false
+    },
+    "zoom": {
+      "allows_np": true,
+      "frames": [
+        "intransitive",
+        "transitive"
+      ],
+      "requires_pp": false
+    }
+  }
+}
