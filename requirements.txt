@@ -1,0 +1,12 @@
+# CKY Parser for English with Agreement Checking
+# Python dependencies
+
+# Natural Language Toolkit - for corpus access and NLP utilities
+nltk>=3.8
+
+# spaCy - for dependency parsing and subcategorization extraction
+spacy>=3.5
+
+# Note: After installing, download required NLTK data and spaCy model:
+#   python -c "import nltk; nltk.download('treebank')"
+#   python -m spacy download en_core_web_sm
